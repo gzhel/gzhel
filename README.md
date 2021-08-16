@@ -1,4 +1,10 @@
-### Hi there 👋
+My areas of expertise:
+
+* 🔭 **Current project:** large brokerage platform.
+* 🌱 **I’m currently learning:** JavaScript, TypeScript, React/VueJS.
+* 📫 **How to reach me:** gregoryzhel@gmail.com
+
+<img src="https://user-images.githubusercontent.com/37290/124840841-7bf60d80-df51-11eb-8abb-f69434544136.png">
 
 <!--
 **gzhel/gzhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
