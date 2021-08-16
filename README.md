@@ -1,7 +1,7 @@
 My areas of expertise:
 
 * **Current project:** large brokerage platform 🦁
-* **I’m currently learning:** JavaScript, TypeScript, React/VueJS ✨
+* **I’m currently learning:** JavaScript, TypeScript, VueJS ✨
 * **How to reach me:** gregoryzhel@gmail.com 📫
 * **Technologies in use:** HTML, CSS (SCSS/Less), JavaScript (ES6+), ReactJS, TypeScript, GraphQL/axios 💡
 
