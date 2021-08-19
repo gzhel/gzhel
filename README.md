@@ -1,6 +1,6 @@
-* **Current project:** large brokerage platform 🦁
-* **I’m currently learning:** JavaScript, TypeScript, VueJS ✨
-* **Technologies in use:** HTML, CSS (SCSS/Less), JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL/axios, antd 💡
+* **Current project:** large brokerage platform.
+* **I’m currently learning:** JavaScript, TypeScript, VueJS. ✨
+* **Technologies in use:** HTML, CSS (SCSS/Less), JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL/axios, Ant Design 💡
 * **How to reach me:** gregoryzhel@gmail.com 📫
 
 <img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.jpg">
