@@ -5,7 +5,7 @@ My areas of expertise:
 * **Technologies in use:** HTML, CSS (SCSS/Less), JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL/axios, antd 💡
 * **How to reach me:** gregoryzhel@gmail.com 📫
 
-<img src="https://user-images.githubusercontent.com/37290/124840841-7bf60d80-df51-11eb-8abb-f69434544136.png">
+<img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.png">
 
 <!--
 **gzhel/gzhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
