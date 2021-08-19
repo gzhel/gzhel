@@ -1,5 +1,3 @@
-My areas of expertise:
-
 * **Current project:** large brokerage platform 🦁
 * **I’m currently learning:** JavaScript, TypeScript, VueJS ✨
 * **Technologies in use:** HTML, CSS (SCSS/Less), JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL/axios, antd 💡
