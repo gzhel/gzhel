@@ -1,6 +1,6 @@
-* **My experience:** *2 years of commercial development.* *I am currently working on a large investment and trading platform.*
-* **I’m currently learning:** *Webpack, JavaScript, TypeScript, VueJS, Node.js.* 🌱
+* **My experience:** *2 years of commercial development.* *I am currently working on a large investment and trading platform.* 🔭
 * **Technologies in use:** *Git, HTML, CSS (SCSS or Less), BEM, JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL, axios, Ant Design, WebStorm (or VS Code).* 💡
+* **I’m currently learning:** *Webpack, JavaScript, TypeScript, VueJS, Node.js.* 🌱
 * **How to reach me:** gregoryzhel@gmail.com 📫
 
 <img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.jpg">
