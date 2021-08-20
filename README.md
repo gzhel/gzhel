@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.jpg">
 
-* **Personal project of September:** *landing page application using: HTML, SCSS, JavaScript, React, Material UI.* ❗
+* **Personal project of September:** *landing page application using HTML, SCSS, JavaScript, React, Material UI.* 💯
 
 <!--
 **gzhel/gzhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
