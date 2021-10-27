@@ -1,7 +1,7 @@
 * **About me:** *programmer, writer, investor. I love to create. Since the age of six, I have been creating fantasy worlds, and as a hobby I am engaged in game design. I got interested in engineering and programming in high school, when I was seventeen years old. I started programming seriously relatively recently, and now my interest and experience are growing every day!* 🤔
 * **My experience:** *2 years of commercial development.* *I am currently working on a large investment and trading platform.* 🔭
-* **I’m currently learning:** *Webpack, JavaScript, TypeScript, MobX, VueJS, Node.js.* 🌱
-* **Technologies in use:** *Git, HTML, CSS (SCSS or Less), Bootstrap, BEM, JavaScript (ES6+), ReactJS (Redux, saga), TypeScript, GraphQL, axios, Ant Design, WebStorm (or VS Code).* 💡
+* **I’m currently learning:** *Webpack, TypeScript (extended), MobX, VueJS, Node.js, Jest, Puppeteer, Cypress, Auth0, Twilio, stripe, Amazon Recognition.* 🌱
+* **Technologies in use:** *WebStorm (or VS Code), Git, HTML, CSS (SCSS or Less), BEM, Tailwind, JavaScript (ES6+), TypeScript, ReactJS (Redux, saga), GraphQL, axios, Ant Design, .* 💡
 
 <img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.jpg">
 
