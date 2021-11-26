@@ -1,5 +1,4 @@
-* **About me:** *I am 22 years old, I have been interested in programming since I was 18, I am also interested in game design, investment and travel. My philosophy is to make the code simple, efficient and understandable for both experienced developers and beginners.* 🤔
-* **My experience:** *2 years of commercial development.* *I am currently working on a large investment and trading platform.* 🔭
+* **About me:** *I am 22 years old, I have been interested in programming since I was 18, I am also interested in game design, investment and travel. I have 2 years of commercial development. I am currently working on an investment and trading platform. My philosophy is to make the code simple, efficient and understandable for both experienced developers and beginners.* 🔭
 * **I’m currently learning:** *Webpack, MobX, VueJS, Node.js, Jest, Puppeteer, Cypress, Auth0, Twilio, stripe, Amazon Recognition.* 🌱
 * **Technologies in use:** *WebStorm IDE (or VS Code), Git, HTML, CSS (SCSS or Less), BEM, Tailwind, JavaScript (ES6+), TypeScript, ReactJS, Redux (saga, toolkit), GraphQL, axios, Ant Design.* 💡
 
