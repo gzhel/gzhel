@@ -1,22 +1,9 @@
-* **About me:** *I am 23 years old, I have been interested in programming since I was 18, I am also interested in game design, investment and travel. I have 2 years of commercial development. I am currently working on an investment and trading platform. My philosophy is to make the code simple, efficient and understandable for both experienced developers and beginners.* 🔭
-* **I’m currently learning:** *Webpack, MobX, VueJS, Node.js, Jest, Puppeteer, Cypress, Auth0, Twilio, stripe, Amazon Recognition.* 🌱
-* **Technologies in use:** *WebStorm IDE, Git, HTML, CSS (SCSS), BEM, Tailwind, JavaScript, TypeScript, React, Redux (saga, toolkit), GraphQL, axios, Ant Design.* 💡
-
-<img src="https://raw.githubusercontent.com/gzhel/gzhel/main/images/2.jpg">
-
-<!-- * **Personal project of September:** *landing page application using HTML, SCSS, Material UI, BEM, JavaScript, ReactJS (no "flux").* 💯 -->
-
-<!--
-**gzhel/gzhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://gzhel.dev">about</a> .
+    <a href="https://gzhel.dev/projects">projects</a> .
+    <a href="https://gzhel.dev/articles">articles</a> .    
+    <a href="https://gzhel.dev/talks">talks</a> .
+    <a href="https://www.linkedin.com/in/gzhel/">linkedin</a>
+  </samp>
+</p>
